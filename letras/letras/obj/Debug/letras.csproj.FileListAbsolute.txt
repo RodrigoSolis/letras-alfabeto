@@ -1,0 +1,6 @@
+c:\users\rodrigo\documents\visual studio 2015\Projects\letras\letras\bin\Debug\letras.exe.config
+c:\users\rodrigo\documents\visual studio 2015\Projects\letras\letras\bin\Debug\letras.exe
+c:\users\rodrigo\documents\visual studio 2015\Projects\letras\letras\bin\Debug\letras.pdb
+c:\users\rodrigo\documents\visual studio 2015\Projects\letras\letras\obj\Debug\letras.csprojResolveAssemblyReference.cache
+c:\users\rodrigo\documents\visual studio 2015\Projects\letras\letras\obj\Debug\letras.exe
+c:\users\rodrigo\documents\visual studio 2015\Projects\letras\letras\obj\Debug\letras.pdb
